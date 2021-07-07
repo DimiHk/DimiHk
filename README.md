@@ -1,3 +1,4 @@
+
 ### Hi, I'm Dimi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## In short, Junior Full Stack Developer 
@@ -6,9 +7,16 @@
 - 🥅 2020 Goal - Become a mid level full stack developer
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
+
+## GitHub Stats
+
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=DimiHk&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimiHk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Languages and Tools :
+
 <img style="float: left; padding: 0px 25px 0px 0px;" align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img style="float: left; padding: 0px 25px 0px 0px;" align="left" alt="Php" width="26px" src="https://img.icons8.com/ios/50/000000/php-logo.png"/>
 
