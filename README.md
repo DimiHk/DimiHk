@@ -1,10 +1,10 @@
 
 ### Hi, I'm Dimi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align = "center" width="25px">
 
-## In short, Junior Full Stack Developer 
-- 🔭 I’m currently working on - Small full api website
-- 🌱 I’m currently learning - React & NET CORE API
-- 🥅 2020 Goal - Become a mid level full stack developer
+## About Me
+- I'm 19 years old.
+- Currentlty i'm finishing my degree in Computer Science.
+- I'm looking always to improve. 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
 
