@@ -1,13 +1,3 @@
-
-### Hi, I'm Dimi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" align = "center" width="25px">
-
-## About Me
-- I'm 19 years old.
-- Currentlty i'm finishing my degree in Computer Science.
-- I'm looking always to improve. 
-<!-- ❔❔❔❔ means username in below README.md -->
-<!-- Also feel free to update second URL to any URL -->
-
 ## GitHub Stats
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=DimiHk&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
