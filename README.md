@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **redux**
 
-- * I'm currently working at **Algardata**
+-  I'm currently working at **Algardata**
 
 - 📫 How to reach me **dimihtsk@gmail.com**
 
