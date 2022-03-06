@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **redux**
 
--  I'm currently working at **Algardata**
-
 - 📫 How to reach me **dimihtsk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
