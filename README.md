@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimihk&label=Profile%20views&color=ff0000&style=flat-square" alt="dimihk" /> </p>
 
-- 🔭 I’m currently working on **sorting visualizer**
+- 🔭 I’m currently working on **.NET Roadmap**
 
-- 🌱 I’m currently learning **redux**
+- 🌱 I’m currently learning **.NET**
 
 - 📫 How to reach me **dimihtsk@gmail.com**
 
