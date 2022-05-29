@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alexandre Hutsulyak</h1>
-<h3 align="center">A passionate frontend developer from Portugal</h3>
+<h3 align="center">A passionate developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimihk&label=Profile%20views&color=ff0000&style=flat-square" alt="dimihk" /> </p>
 
